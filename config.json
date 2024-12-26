@@ -1,0 +1,9 @@
+{
+  "title": "Diamond Documentation",
+  "description": "A modern static site generator for Obsidian documents",
+  "baseUrl": "/",
+  "theme": {
+    "primary": "#6366f1",
+    "secondary": "#14b8a6"
+  }
+}
