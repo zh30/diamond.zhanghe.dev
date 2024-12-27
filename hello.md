@@ -14,4 +14,5 @@ Diamond is a modern static site generator designed for Obsidian documents. It co
    npx @zhanghe/diamond build
    ```
 
-2. Your site will be generated in the `dist` directory! 
+2. Your site will be generated in the `dist` directory!
+
